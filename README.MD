@@ -48,12 +48,12 @@ The model developed for the project work uses Python and following open source l
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Email (Optional) |
-| :------------ |:---------------:|  :-----|
-| Harry Chan | A0213530X | e0508631@u.nus.edu |
-| Chong Keng Han | A0213547H | e0508648@u.nus.edu |
-| Wen Cheng | A0213572L | e0508673@u.nus.edu |
-| Sivasankaran Balakrishnan | A0065970X | e0507972@u.nus.edu |
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| :------------ |:---------------:| :-----| :-----|
+| Harry Chan | A0213530X  | Creation of Power Query from EMC website as Power BI web data source. Create the Power BI visualization. Creation of Power Automate flow  to automate Power BI data alerts to trigger outlook email| e0508631@u.nus.edu |
+| Chong Keng Han | A0213547H  | Domain subject matter expert on the business use case and requirements.Power BI and Power Automate implementation ( Integrating with telegram Bots )Contributed to the project report writing, video 1 narration and installation guide.| e0508648@u.nus.edu |
+| Wen Cheng | A0213572L  | Developed the TagUI script to automate the data scraping from the website and append to the training dataset. Developed the ML model with Polynomial Linear Regression for Demand/USEP prediction. Integrated Python component with Power BI | e0508673@u.nus.edu |
+| Sivasankaran Balakrishnan | A0065970X  | Domain subject matter expert on the business use case and requirements. Power BI and Power Query. Contributed to the project documentations report writing, installation guide, github repository).| e0507972@u.nus.edu |
 
 ---
 
