@@ -60,11 +60,11 @@ The model developed for the project work uses Python and following open source l
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 <div align="center">
   <a href="https://youtu.be/KznpFAsT1rQ">
-    <img src="http://i3.ytimg.com/vi/LX3SzWYeCGo/hqdefault.jpg" alt="Electricity Demand Response Alert System (EDRAS) - BusinessCase Video">
+    <img src="http://i3.ytimg.com/vi/KznpFAsT1rQ/hqdefault.jpg" alt="Electricity Demand Response Alert System (EDRAS) - BusinessCase Video">
   </a>
 
   <a href="https://youtu.be/pJly54Nnc84">
-    <img src="http://i3.ytimg.com/vi/LX3SzWYeCGo/hqdefault.jpg" alt="Electricity Demand Response Alert System (EDRAS) - System Design Demo">
+    <img src="http://i3.ytimg.com/vi/pJly54Nnc84/hqdefault.jpg" alt="Electricity Demand Response Alert System (EDRAS) - System Design Demo">
   </a>
 
 </div>
@@ -73,13 +73,13 @@ The model developed for the project work uses Python and following open source l
 
 ## SECTION 5 : INSTALLATION & USER GUIDE
 
-`Refer to "Electricity Demand Response Alert System (EDRAS) - Project Insatallation-User Guide.docx" document at Github Folder: ProjectReport`
+`Refer to "EDRAS_InstallationGuide.pdf" document at Github Folder: ProjectReport`
 
 ---
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to "Electricity Demand Response Alert System (EDRAS) - Project Report.docx' document at Github Folder: ProjectReport`
+`Refer to "ISA-PM-IPA-2021-01-09-IS02PT-GRP-ElectricityDemandResponseAlertSystem.pdf' document at Github Folder: ProjectReport`
 
 ---
 
@@ -87,7 +87,4 @@ The model developed for the project work uses Python and following open source l
 
 With the increase of both electrical demand and renewable electrical resources, the demand response program will provide a major source of reliable and flexible capacity to ensure resource adequacy cost-effectively. The Forecast and notification system that the team implemented will enable potential Demand Response Market participants to have a pre-emptive notification and bid into the system during the forecasted periods that will have a high electrical USEP price. The eventual market benefit will enable the market participant to have a revenue of around $4500/MWhr. ( Taking an example of a chiller plant which has a dispatchable load of 10MWhr, this will translate to a potential revenue of $45K per hour of participation when triggered. 
 
-
-## SECTION 
----
 
